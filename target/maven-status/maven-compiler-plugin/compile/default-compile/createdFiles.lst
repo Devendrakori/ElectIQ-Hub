@@ -1,0 +1,6 @@
+Dao\Dao.class
+Service\Service.class
+Entity\Candidate.class
+Utility\Utility.class
+Client\Client.class
+Controller\Control.class
